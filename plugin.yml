@@ -1,0 +1,7 @@
+main: me.venomouspenguin.antcraft.spleef.core.Main
+version: 0.0.0
+name: ACSpleef
+
+commands:
+  spleef:
+    description: dssdfsd

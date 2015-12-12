@@ -1,0 +1,14 @@
+antcraft:
+  messages:
+    1: "&eArena not found"
+    2: "&eArena full"
+    3: "&eThis arena has been force started by: &a%name%"
+    4: "&eThis arena has been force stopped by: &a%name%"
+    5: "&eThis arena is not setup yet"
+    6: "&eThis arena is disabled"
+    7: "&eArena removed"
+    8: "&eArena, &a%a% &ehas been created"
+    9: "&eYou have disabled the arena"
+    10: "&eYou have enabled the arena"
+    11: "&eArena in game"
+    12: "&eJoined arena"
